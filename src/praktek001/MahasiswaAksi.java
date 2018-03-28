@@ -49,5 +49,11 @@ public class MahasiswaAksi {
         Akay.jurusan="Game";
         Akay.nohp="0088776543";
         Akay.IPK=4.5;
+        
+        Zilong.cetakInfo();
+        Akay.cetakInfo();
+        Kendil.cetakInfo();
+        Miya.cetakInfo();
+        Lolita.cetakInfo();
     }
 }
