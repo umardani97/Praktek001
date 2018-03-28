@@ -10,5 +10,7 @@ package praktek001;
  * @author JKendil
  */
 public class MahasiswaAksi {
-    
+    public static void main(String[] args) {
+        Mahasiswa Kendil = new Mahasiswa();
+    }
 }
